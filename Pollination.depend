@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1625677127 source:c:\users\desrina\documents\programming\pollination\main.cpp
+	<iostream>
+	<windows.h>
+	<graphics.h>
+	<stdlib.h>
+	<math.h>
+	<mmsystem.h>
+
